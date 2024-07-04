@@ -2,7 +2,7 @@
 
 <br>
 
-Full-Stack Engineer from Ukraine 🧊
+Front-End Engineer from Ukraine 🧊
 
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 
